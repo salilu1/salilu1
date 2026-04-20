@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Saleamlak Takele
 
-💻 Full Stack Developer | Fintech Experience | Problem Solver  
+💻 Full Stack Developer | Fintech Experience
 📍 Addis Ababa, Ethiopia  
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working at **NIB International Bank** as a Junior Digital Operations Officer  
-- 💡 Passionate about building **secure, scalable, and high-performance applications**  
-- 🌱 Continuously learning **advanced backend systems, system design, and cloud technologies**  
-- ⚙️ Experienced in **fintech environments, enterprise systems, and real-world operations**  
+- 💻 Full Stack Developer building scalable, production-ready applications in fintech  
+- ⚙️ Specialized in backend systems, API design, and data-driven workflows  
+- 🧠 Blend of Computer Science and Business, aligning engineering with real product needs  
+- 🚀 Experience delivering end-to-end solutions in secure, high-availability environments  
+- 🌱 Focused on system design, performance, and scalable architecture 
 
 ---
 
@@ -42,7 +43,7 @@
 
 ---
 
-## 📌 Projects (Add your best ones here)
+#📌 Projects
 ```bash
 # Example format
 Project Name

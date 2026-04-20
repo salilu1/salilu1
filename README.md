@@ -43,8 +43,8 @@
 
 ---
 
-#📌 Projects
-<!-- ```bash
+<!-- #📌 Projects
+ ```bash
 # Example format
 Project Name
 - Description: Short explanation of what it does

@@ -44,9 +44,9 @@
 ---
 
 #📌 Projects
-```bash
+<!-- ```bash
 # Example format
 Project Name
 - Description: Short explanation of what it does
 - Tech Stack: React, Node.js, MongoDB
-- Link: https://github.com/your-repo
+- Link: https://github.com/your-repo -->
